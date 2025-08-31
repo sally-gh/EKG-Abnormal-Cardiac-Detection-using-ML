@@ -1,6 +1,6 @@
-# EKG-Abnormal-Cardiac-Detection-using-ML
+<h1 align="center">EKG-Abnormal-Cardiac-Detection-using-ML</h1>
 
-![Sample EKG Signal](ECG-normal%20image.jpg)
+![Sample EKG Signal](NormalECG.png)
 
 This repository utilizes an EKG dataset with normal and abnormal EKGs to detect abnormalities in cardiac physiology such as myocardial infarction, heart failure, bundle branch block, etc.  
 The machine learning algorithm is a Convolutional Neural Network (CNN) built with TensorFlow for abnormal detection.  
